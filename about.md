@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi there. My name's Matt and I live in Melbourne (Aus). I'm part electronic engineer, part data analyst, and part climbing-dirtbag. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a qualified Engineer studying A.I./data science at Monash University. Get in touch below!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email me](mailto:coleman85@gmail.com)
