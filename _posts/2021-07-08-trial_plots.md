@@ -1,8 +1,8 @@
 ---
 title: trial_plots.md
-mathjax: Test_plots
+mathjax: false
 categories:
-  - false
+  - test
 tags:
   - test
 ---
