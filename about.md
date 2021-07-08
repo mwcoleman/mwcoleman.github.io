@@ -9,4 +9,4 @@ Hi there. My name's Matt and I live in Melbourne (Aus). I'm part electronic engi
 
 ### More Information
 
-I'm a qualified Engineer studying A.I./data science at Monash University. To get in touch visit my linked.in page.
+I'm a qualified Engineer studying A.I./data science at Monash University. To get in touch click below.
