@@ -1,12 +1,3 @@
----
-title: trial_plots.md
-mathjax: true
-categories:
-  - true
-tags:
-  - true
----
-
 ```python
 import matplotlib.pyplot as plt
 import os, shutil
@@ -60,7 +51,7 @@ acc_vs_datasize('acc_vs_dataset_size.csv')
 
 
     
-<img src="../images/trial_plots_files/trial_plots_1_0.png">
+![svg](trial_plots_files/trial_plots_1_0.svg)
     
 
 
@@ -93,7 +84,7 @@ loss_vs_epoch('./csv/izh_dev_loss.csv', './csv/izh_train_loss.csv', 'Loss vs. Ep
 
 
     
-<img src="../images/trial_plots_files/trial_plots_2_0.png">
+![svg](trial_plots_files/trial_plots_2_0.svg)
     
 
 
@@ -125,7 +116,7 @@ plt.title('Loss vs Epoch on IZH for Different Data Augmentation', size=16)
 
 
     
-<img src="../images/trial_plots_files/trial_plots_3_1.png">
+![svg](trial_plots_files/trial_plots_3_1.svg)
     
 
 
@@ -194,7 +185,7 @@ plt.show()
 
 
     
-<img src="../images/trial_plots_files/trial_plots_4_0.png">
+![svg](trial_plots_files/trial_plots_4_0.svg)
     
 
 
@@ -284,7 +275,7 @@ length_vs_errors(dev,test)
 
 
     
-<img src="../images/trial_plots_files/trial_plots_5_0.png">
+![svg](trial_plots_files/trial_plots_5_0.svg)
     
 
 
@@ -299,7 +290,7 @@ edit_hist(izh,mwf,mlt, ['IZH','MWF','MLT'])
 
 
     
-<img src="../images/trial_plots_files/trial_plots_6_0.png">
+![svg](trial_plots_files/trial_plots_6_0.svg)
     
 
 
@@ -316,7 +307,7 @@ edit_hist(izh,mwf,mlt, ['IZH','MWF','MLT'])
 
 
     
-<img src="../images/trial_plots_files/trial_plots_7_0.png">
+![svg](trial_plots_files/trial_plots_7_0.svg)
     
 
 
@@ -353,7 +344,7 @@ plt.show()
 
 
     
-<img src="../images/trial_plots_files/trial_plots_8_0.png">
+![svg](trial_plots_files/trial_plots_8_0.svg)
     
 
 
@@ -390,7 +381,7 @@ plt.show()
 
 
     
-<img src="../images/trial_plots_files/trial_plots_9_0.png">
+![svg](trial_plots_files/trial_plots_9_0.svg)
     
 
 
