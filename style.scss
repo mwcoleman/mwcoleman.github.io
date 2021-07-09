@@ -26,7 +26,7 @@ body {
 // Old width was 740
 .container {
   margin: 0 auto;
-  max-width: 1024px; 
+  max-width: 740px; 
   padding: 0 10px;
   width: 100%;
 }
@@ -260,6 +260,8 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+    max-width: 740px; 
+    width=100%;
   }
 
   .comments {
