@@ -5,8 +5,10 @@ permalink: /about/
 published: true
 ---
 
-Hi there. My name's Matt and I live in Melbourne (Aus). I'm part electronic engineer, part data analyst, and part climbing-dirtbag. 
+Hi. My name's Matt and I live in Melbourne (Australia). I'm part electronic engineer, part data analyst, and part outdoors enthusiast.
 
 ### More Information
 
-I'm a qualified Engineer studying A.I./data science at Monash University. To get in touch click below.
+I'm a qualified Engineer whose worked across the health, telecommunications, and power industries. I'm currently studying A.I./data science at Monash University. I'm interested in many things such as machine learning, data science and software development; and generally enjoy building, testing, breaking and fixing things. Most of all I love to learn.
+
+Feel free to get in touch through my linked.in page. Thanks for visiting!
