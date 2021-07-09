@@ -1,3 +1,12 @@
+---
+title: TF
+mathjax: Tips
+categories:
+  - true
+tags:
+  - true
+---
+
 This is all about getting data into the right format for a model. The ins and outs.
 
 *Waffle* 
