@@ -1,13 +1,11 @@
 ---
-title: tf_tips/Tensorflow_Top3.md
+title: Tensorflow Pre/Post Top3
 mathjax: true
 categories:
   - true
 tags:
   - true
 ---
-
-# Tensorflow: Pre/Post Top 3
 
 *Waffle* 
 
@@ -16,8 +14,8 @@ A year into the Masters of A.I. at Monash and so far we've covered plenty of the
 Here's 5 important topics we have explored. This is intended as a quick reference for myself and any others who might benefit from it. Training/evaluating Models have been left out for now as there is plenty of information on this elsewhere. The (vital) knowledge I lacked has been in preprocessing, pipelines, and predictions.
 
   
-  
-*Topics*
+## Top 3  
+
 1. Data pipelines and preprocessing
 2. Dataset objects: Inspecting and manipulating objects
 3. Predictions: Making them, interpreting them, handling shapes
