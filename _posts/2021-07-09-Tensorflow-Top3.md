@@ -1,19 +1,14 @@
 ---
-title: TF
+title: Tensorflow data pipelines and model predictions
 mathjax: Tips
 categories:
   - true
 tags:
   - true
+published: true
 ---
 
-This is all about getting data into the right format for a model. The ins and outs.
-
-*Waffle* 
-
-A year into the Masters of A.I. at Monash and so far we've covered plenty of the foundations; probability theory, statistical/shallow learning methods, and domain specific knowledge in NLP and CV. I've really enjoyed learning about latent variable modelling, unsupervised/clustering methods and how different models find structure in data. Next up is deep learning and the research stream. I figured it makes sense to get to know the framework we'll be using before this happens, so I've been running through the excellent [Tensorflow 2 for Deep Learning](https://www.coursera.org/specializations/tensorflow2-deeplearning) by Imperial College London Specialisation on Coursera. 
-
-Here's 5 important topics we have explored. This is intended as a quick reference for myself and any others who might benefit from it. Training/evaluating Models have been left out for now as there is plenty of information on this elsewhere. The (vital) knowledge I lacked has been in preprocessing, pipelines, and predictions.
+This is intended as a quick reference for myself and any others who might benefit from it. It focuses on getting custom data of various formats into a model. It doesn't cover using the in-built datasets, building or evaluating models.
 
   
   
