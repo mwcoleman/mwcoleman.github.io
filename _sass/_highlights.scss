@@ -1,15 +1,16 @@
 
 .highlight {
+  display: block;
   background-color: #efefef;
-  padding: 1px 1px 1px 1px;
-  border: 1px solid #ddd;
-  margin: 0px 0.2em;
+  #  padding: 1px 1px 1px 1px;
+  #  border: 1px solid #ddd;
+  margin: 20px;
   font-size: 13px;
-  overflow: scroll;
+  overflow: auto;
 }
 
 code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+  font-family: monospace;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
