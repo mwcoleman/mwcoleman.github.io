@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $darkerGray;
+	background: $themeGrayDark;
   font: 18px/1.4 $helvetica;
   color: $lightGray;
 }
@@ -33,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: $themeGreyLightest;
   font-weight: bold;
 
   line-height: 1.7;
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $themeGreyLight;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $themeGreyLight;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -277,7 +277,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $$themeGreyMed;
 }
 
 footer {
