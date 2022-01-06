@@ -20,6 +20,10 @@ Note: The following resouces were used in various ways:
 
 ### Overview
 
-Self supervised pretraining of transformers is a default component to training strong performing vision and language models. There have been many approaches using a variety of pretext tasks (i.e. the method to supervise the model using an unlabelled dataset) and I was curious how, holding everything else constant, these pretext tasks compared on a baseline model.
+Self supervised pretraining of transformers is a default component to training strong performing vision and language models. Research typically follows the following setup:
 
-VisualBert was chosen as the baseline model as it is a simple achitecture with decent performance, and there is a huggingface implementation. 
+
+
+There have been many approaches using a variety of pretext tasks (i.e. the method to supervise the model using an unlabelled dataset) and I was curious how, holding everything else constant, these pretext tasks compared on a baseline model.
+
+VisualBert was chosen as the baseline model as it is a simple achitecture with decent performance, and there is a huggingface implementation.
