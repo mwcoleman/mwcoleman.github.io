@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 ## Pretraining multimodal (vision and language) transformers with pytorch lightning
 
